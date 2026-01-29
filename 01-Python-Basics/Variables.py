@@ -19,3 +19,4 @@ print(type(b))
 del pie 
 del c 
 del value 
+del a 
