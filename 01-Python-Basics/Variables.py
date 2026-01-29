@@ -6,7 +6,7 @@ b = 20.33
 
 pie =  3.14
 
-value = "Hell world"
+value = "Hello world"
 
 print(name,x,b,value)
 
@@ -20,3 +20,9 @@ del pie
 del c 
 del value 
 del a 
+
+
+del name 
+name = "john"
+age = 20
+isNewPatient = False
