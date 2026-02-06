@@ -6,5 +6,5 @@ type = input("(L)bs OR (K)gs : ")
 if type.upper() == 'L':
     print(weight * 0.45) 
 else:
-    print(weight * 2.20)
+    print(weight / 0.45)
 
